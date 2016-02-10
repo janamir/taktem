@@ -475,15 +475,6 @@ This command will send text to [group_id]
 you can use both "/" and "!" 
 شما میتوانید از ! و / استفاده کنید
 
-Developer: @amirmr33
-توسعه دهنده
-اگه هم ریپورتی از طریق بات بچت
-@amirmr33bot
-برای ادمین شدنم پیوی بات یا ادمین بیاین
-channel: @superbot_new
-کانال ما
-در کانال ما گروه رایگان قرار داده میشود
-G00D LUCK ^_^
 ]]
   }
   serialize_to_file(config, './data/config.lua')
